@@ -1,0 +1,21 @@
+.food-heading {
+  color: teal;
+  text-align: center;
+}
+
+p {
+  color: aliceblue;
+}
+
+button {
+  color: rgb(149, 45, 95);
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border-color: 1px soild rgb(149, 45, 95);
+}
+
+h3 {
+  color: #fff;
+  font-size: 20px;
+}
